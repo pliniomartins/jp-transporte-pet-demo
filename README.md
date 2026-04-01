@@ -41,7 +41,11 @@ Algumas funcionalidades foram desativadas por segurança.
 
 ## 📸 Preview do App
 
-(Em breve imagens do app aqui 👇)
+
+![Login](./public/images/login.jpeg)
+![Mapa](./public/images/mapa.jpeg)
+![Corrida](./public/images/corrida.jpeg)
+
 
 ---
 
