@@ -1,20 +1,54 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🐾 JP Transporte Pet
 
-Currently, two official plugins are available:
+🚗 Aplicativo de transporte especializado para pets  
+📍 Desenvolvido por Plínio Martins  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📱 Sobre o App
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O **JP Transporte Pet** é um aplicativo que conecta tutores de pets a um serviço de transporte seguro, rápido e confiável.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# jp-transporte-pet-demo
->>>>>>> f2af891fc04cbdd1f21ab00daaea9d550926a9c2
+## 🚀 Funcionalidades
+
+- 📍 Mapa em tempo real
+- 💰 Cálculo automático de corrida
+- 🐕 Seleção de porte do pet
+- 📲 Integração com WhatsApp
+- 🔐 Sistema de login
+- ☁️ Banco de dados (Firebase)
+
+---
+
+## ⚠️ Aviso
+
+Este repositório é uma versão demonstrativa.  
+Algumas funcionalidades foram desativadas por segurança.
+
+---
+
+## 🛠️ Tecnologias
+
+- React
+- Firebase
+- JavaScript
+- Capacitor (Android APK)
+
+---
+
+## 📸 Preview do App
+
+(Em breve imagens do app aqui 👇)
+
+---
+
+## 📞 Contato
+
+📱 WhatsApp: (81) 998327712 
+
+---
+
+🔥 Em breve disponível na Play Store!
