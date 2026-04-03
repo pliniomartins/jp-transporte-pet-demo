@@ -56,7 +56,7 @@ Algumas funcionalidades foram desativadas por segurança.
 
 ## 📞 Contato
 
-📱 WhatsApp: (81) 998327712 
+📱 WhatsApp: (81) 99832-7712 
 
 ---
 
